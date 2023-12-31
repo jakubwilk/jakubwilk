@@ -9,6 +9,7 @@ Front-End Developer & Gamer
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Preview">
     <img align="right" width="420" height="auto" src="https://github-readme-stats.vercel.app/api?username=jakubwilk&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
 </a>
+___
 
 ### 🛠️ Tech I know and I am familiar
 
@@ -18,6 +19,7 @@ Front-End Developer & Gamer
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=next.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-000000?style=flat&logo=nestjs)
 
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-000000?style=flat&logo=mui)
@@ -27,7 +29,7 @@ Front-End Developer & Gamer
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 
-### ⚔️ TOP 5 Games as Player
+### ⚔️ My TOP 5 Games as Player
 
 ![BaldursGate3](https://img.shields.io/badge/Baldur's%20Gate%203-black?style=flat&logo=steam)
 ![Cyberpunk2077](https://img.shields.io/badge/Cyberpunk%202077-black?style=flat&logo=steam)
