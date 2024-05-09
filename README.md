@@ -21,6 +21,10 @@ ___
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=next.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-000000?style=flat&logo=nestjs)
+![Exoress](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
+
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
+![ReactRouter](https://img.shields.io/badge/-React%20Router-000000?style=flat&logo=react-router)
 
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-000000?style=flat&logo=mui)
 ![Mantine](https://img.shields.io/badge/-Mantine-000000?style=flat&logo=mantine)
@@ -33,6 +37,6 @@ ___
 
 ![BaldursGate3](https://img.shields.io/badge/Baldur's%20Gate%203-black?style=flat&logo=steam)
 ![Cyberpunk2077](https://img.shields.io/badge/Cyberpunk%202077-black?style=flat&logo=steam)
-![HorizonZeroDawn](https://img.shields.io/badge/Horizon%20Zero%20Dawn-black?style=flat&logo=steam)
-![PlagueTaleRequiem](https://img.shields.io/badge/Plague%20Tale%20Requiem-black?style=flat&logo=steam)
+![EldenRing](https://img.shields.io/badge/Elden%20Ring-black?style=flat&logo=steam)
+![LiesOfP](https://img.shields.io/badge/Lies%20of%20P-black?style=flat&logo=steam)
 ![BeatSaber](https://img.shields.io/badge/Beat%20Saber-black?style=flat&logo=oculus)
